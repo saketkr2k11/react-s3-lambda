@@ -20,6 +20,7 @@ function App() {
     </div>)
   return (
     <div className="App">
+      <h1>Lambda</h1>
       {apiData}
     </div>
   );
